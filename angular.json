@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "angular-google"
+  "cli": {
+    "analytics": false
+  }
 }
