@@ -1,0 +1,21 @@
+<div class="admin-wrapper">
+  <div class="admin-sub-wrapper">
+    <div class="admin-header">Admin Container</div>
+    <div></div>
+    <hr />
+    <div class="separate">
+      <div class="beverage">
+        <div><label for="input">Add beverages:</label></div>
+        <input type="text" class="add-beverage-input" #beverageTemp />
+        <button (click)="addNewBeverageItem(beverageTemp.value)">
+          Add Beverage
+        </button>
+      </div>
+      <div class="food">
+        <div><label for="input">Add Food:</label></div>
+        <input type="text" class="add-beverage-input" #foodTemp />
+        <button (click)="addNewFoodItem(foodTemp.value)">Add Food</button>
+      </div>
+    </div>
+  </div>
+</div>

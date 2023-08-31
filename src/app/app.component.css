@@ -1,0 +1,12 @@
+.parent-wrapper {
+  border: 1px solid black;
+  width: 50%;
+  height: 1200px;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.parent-name {
+  font-size: 30px;
+  text-align: center;
+}

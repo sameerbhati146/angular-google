@@ -1,0 +1,42 @@
+.admin-wrapper {
+  border: 1px solid rgb(0, 162, 255);
+  margin-top: 50px;
+  height: 300px;
+  padding: 10px;
+}
+
+.admin-header {
+  font-size: 30px;
+  text-align: center;
+}
+
+.admin-item {
+  font-size: 16px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.add-beverage-input {
+  margin-right: 8px;
+  margin-top: 10px;
+}
+
+.separate {
+  display: flex;
+  /* justify-content: center; */
+  margin-top: 100px;
+  height: 100%;
+}
+
+.beverage {
+  width: 50%;
+  text-align: center;
+  height: 100%;
+  border-right: 1px solid black;
+}
+
+.food {
+  text-align: center;
+  width: 50%;
+  height: 100%;
+}

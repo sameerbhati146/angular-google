@@ -1,0 +1,17 @@
+.child-wrapper {
+  border: 1px solid rgb(0, 162, 255);
+  margin-top: 50px;
+  height: 300px;
+  padding: 10px;
+}
+
+.child-name {
+  font-size: 30px;
+  text-align: center;
+}
+
+.child-baverage {
+  font-size: 16px;
+  margin-top: 10px;
+  font-size: 20px;
+}

@@ -1,0 +1,17 @@
+.food-wrapper {
+  border: 1px solid rgb(0, 162, 255);
+  margin-top: 50px;
+  height: 300px;
+  padding: 10px;
+}
+
+.food-header {
+  font-size: 30px;
+  text-align: center;
+}
+
+.food-item {
+  font-size: 16px;
+  margin-top: 10px;
+  font-size: 20px;
+}
